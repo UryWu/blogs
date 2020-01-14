@@ -1,8 +1,8 @@
 # 资源
-感动！有人将吴恩达的视频课程做成了文字版
+## 感动！有人将吴恩达的视频课程做成了文字版
 https://blog.csdn.net/dqcfkyqdxym3f8rb0/article/details/80054762#comments
 
-清华、北大、浙大的计算机课程资源集都在这里了
+## 清华、北大、浙大的计算机课程资源集都在这里了
 https://blog.csdn.net/dqcfkyqdxym3f8rb0/article/details/88858917#comments
 
 windows server 2019
@@ -13,16 +13,16 @@ http://www.3322.cc/soft/48699.html#xzdz
 
 https://pan.baidu.com/s/1-JyJVn491AC-Ro6HEvBwew
 
-科$学$上$网：
-吾$爱$公$益$分$享
+## 科学上网：
+吾爱公益分享
 
 https://www.youtube.com/channel/UCsiF3N3pBsC_RXS0mDyJ0JQ
 
-阿$狸$云$免$费$任$意$邮$箱$注$册
+阿狸云免费任意邮箱注册
 
 https://www.ssvip10.com
 
-Z$C$S$S$R$免$费$任$意$邮$箱$注$册
+ZCSSR免费任意邮箱注册
 
 https://github.com/ZCSSR/url
 
@@ -34,7 +34,7 @@ https://blog.csdn.net/qq_37266079/article/details/101240174
 
 https://tlanyan.me/shadowsockr-shadowsocksr-shadowsocksrr-clients/
 
-其它
+## 其它
 无崖子资源分享
 
 https://www.fbisb.com/
@@ -51,7 +51,7 @@ about云，很多技术的电子书免费下载
 
 https://www.aboutyun.com/
 
-谷歌访问助手chrome扩展程序
+**谷歌访问助手chrome扩展程序**
 
 西西软件园下载链接
 
@@ -61,7 +61,7 @@ https://www.cr173.com/soft/1012306.html
 
 https://pan.baidu.com/s/1XKQp6OfPrZobVT-bCZzv1Q
 
-网考助手：
+**网考助手**：
 
 上学吧
 
@@ -81,7 +81,7 @@ https://greasyfork.org/zh-CN/scripts/384538-%E4%B8%80%E9%94%AEvip%E8%A7%86%E9%A2
 
 https://www.tikuol.com/
 
-福昕PDF不能标记的原因和解决方法
+## 福昕PDF不能标记的原因和解决方法
 https://blog.csdn.net/fx677588/article/details/53112620
 
 感谢博主提供的Advanced pdf password recovery Pro这个关键词，网上下的，不用注册，免费版的好像也能直接用，反正可以消除简单的加密PDF~
@@ -90,13 +90,13 @@ https://blog.csdn.net/fx677588/article/details/53112620
 
 https://www.cr173.com/soft/10321.html
 
-Office2019专业版安装+一键激活（有更新）
+## Office2019专业版安装+一键激活（有更新）
 https://www.jianshu.com/p/0649b0da0baa
 
-程序员 业余赚钱的六种有效途径
+## 程序员 业余赚钱的六种有效途径
 https://blog.csdn.net/qq_29073921/article/details/86534828
 
-吉他堂：
+## 吉他堂：
 https://www.jitatang.com/
 
  
