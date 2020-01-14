@@ -26,13 +26,42 @@ ZCSSR免费任意邮箱注册
 
 https://github.com/ZCSSR/url
 
-github无法访问：
-
-https://blog.csdn.net/qq_37266079/article/details/101240174
 
 酸酸乳客户端
 
 https://tlanyan.me/shadowsockr-shadowsocksr-shadowsocksrr-clients/
+
+## github
+github无法访问：
+
+https://blog.csdn.net/qq_37266079/article/details/101240174
+
+加速访问GitHub速度：
+
+最近学习到可以通过修改系统hosts文件的办法，绕过国内dns解析，直接访问Github的CDN节点，可以提升访问GItHub的速度
+
+先去http://tool.chinaz.com/dns网站，查询3个与GitHub相关网址对应的IP地址：
+
+1、github.com
+
+2、assets-cdn.github.com
+
+3、github.global.ssl.fastly.net
+
+页面上会查看到这3个地址对应的IP地址，把查询到的IP和地址加到 hosts文件下；
+
+我的系统下hosts文件不能直接保存，那就copy到其它路径下，修改保存后再ctrl+x，ctrl+v回去；
+
+再清一下系统DNS缓存，cmd命令打开DOS窗口，输入：
+
+ipconfig/flushdns
+
+OK ！
+
+参考：
+
+https://blog.csdn.net/chikui6724/article/details/100644265
+
 
 ## 其它
 无崖子资源分享
