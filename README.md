@@ -50,6 +50,8 @@ https://blog.csdn.net/qq_37266079/article/details/101240174
 
 页面上会查看到这3个地址对应的IP地址，把查询到的IP和地址加到 hosts文件下；
 
+C:\Windows\System32\drivers\etc\hosts
+
 我的系统下hosts文件不能直接保存，那就copy到其它路径下，修改保存后再ctrl+x，ctrl+v回去；
 
 再清一下系统DNS缓存，cmd命令打开DOS窗口，输入：
@@ -128,7 +130,7 @@ https://blog.csdn.net/qq_29073921/article/details/86534828
 ## 吉他堂：
 https://www.jitatang.com/
 
- 
+ 
 
 垃圾网站：
 
