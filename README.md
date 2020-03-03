@@ -136,6 +136,12 @@ https://www.jitatang.com/
 
 http://lomtom.top/
 
+牛批的网友：
+https://github.com/programthink/zhao
+
+这个牛逼网友：编程随想的博客
+https://program-think.blogspot.com/
+
 1024网友分享
 ####网盘搜索引擎
 
