@@ -1,8 +1,11 @@
 # 资源
+
 ## 感动！有人将吴恩达的视频课程做成了文字版
+
 https://blog.csdn.net/dqcfkyqdxym3f8rb0/article/details/80054762#comments
 
 ## 清华、北大、浙大的计算机课程资源集都在这里了
+
 https://blog.csdn.net/dqcfkyqdxym3f8rb0/article/details/88858917#comments
 
 windows server 2019
@@ -14,6 +17,7 @@ http://www.3322.cc/soft/48699.html#xzdz
 https://pan.baidu.com/s/1-JyJVn491AC-Ro6HEvBwew
 
 ## 科学上网：
+
 吾爱公益分享
 
 https://www.youtube.com/channel/UCsiF3N3pBsC_RXS0mDyJ0JQ
@@ -32,11 +36,12 @@ https://github.com/ZCSSR/url
 https://tlanyan.me/shadowsockr-shadowsocksr-shadowsocksrr-clients/
 
 ## github
-github无法访问：
+
+### github无法访问：
 
 https://blog.csdn.net/qq_37266079/article/details/101240174
 
-加速访问GitHub速度：
+### 加速访问GitHub速度：
 
 最近学习到可以通过修改系统hosts文件的办法，绕过国内dns解析，直接访问Github的CDN节点，可以提升访问GItHub的速度
 
@@ -66,6 +71,7 @@ https://blog.csdn.net/chikui6724/article/details/100644265
 
 
 ## 其它
+
 无崖子资源分享
 
 https://www.fbisb.com/
@@ -82,7 +88,7 @@ about云，很多技术的电子书免费下载
 
 https://www.aboutyun.com/
 
-**谷歌访问助手chrome扩展程序**
+## **谷歌访问助手chrome扩展程序**
 
 西西软件园下载链接
 
@@ -92,7 +98,7 @@ https://www.cr173.com/soft/1012306.html
 
 https://pan.baidu.com/s/1XKQp6OfPrZobVT-bCZzv1Q
 
-**网考助手**：
+## **网考助手**：
 
 上学吧
 
@@ -113,6 +119,7 @@ https://greasyfork.org/zh-CN/scripts/384538-%E4%B8%80%E9%94%AEvip%E8%A7%86%E9%A2
 https://www.tikuol.com/
 
 ## 福昕PDF不能标记的原因和解决方法
+
 https://blog.csdn.net/fx677588/article/details/53112620
 
 感谢博主提供的Advanced pdf password recovery Pro这个关键词，网上下的，不用注册，免费版的好像也能直接用，反正可以消除简单的加密PDF~
@@ -122,12 +129,15 @@ https://blog.csdn.net/fx677588/article/details/53112620
 https://www.cr173.com/soft/10321.html
 
 ## Office2019专业版安装+一键激活（有更新）
+
 https://www.jianshu.com/p/0649b0da0baa
 
 ## 程序员 业余赚钱的六种有效途径
+
 https://blog.csdn.net/qq_29073921/article/details/86534828
 
 ## 吉他堂：
+
 https://www.jitatang.com/
 
  
@@ -137,6 +147,7 @@ https://www.jitatang.com/
 http://lomtom.top/
 
 ## 牛批的网友：
+
 https://github.com/programthink/zhao
 
 这个牛逼网友：编程随想的博客
@@ -195,8 +206,9 @@ Licence Key: 8888-000-8888
 
 
 
-1024网友分享
-####网盘搜索引擎
+## 1024网友分享
+
+### 网盘搜索引擎
 
 1、去转盘网
 https://www.quzhuanpan.com/
@@ -218,7 +230,7 @@ http://www.rufengso.net/
 https://pan.09l.me/
 云盘恶魔，和上面的几个类似，不过需要关注后才能使用
 
-####VIP视频解析
+### VIP视频解析
 
 1、酷嗨VIP视频解析
 http://vip.coolhii.com/
@@ -234,7 +246,7 @@ http://tv.wandhi.com/go.html
 
 以上几个VIP视频解析网站，是我常用的几个，解析效果也比较好，一般网上主流的视频播放平台都可以解析，什么爱奇艺，腾讯视频，优酷等完全无压力
 
-####BT搜索网站
+### BT搜索网站
 
 1、海盗湾
 http://thepiratebay.se.net/
@@ -248,8 +260,7 @@ http://www.resog.com/
 
 磁力网站，现在国内打击的很厉害，就这几个我觉得还行！！第一个不解释，牛逼的存在，第二个搜索车牌比较给力，第三个资源很多。
 
-
-####办公文档类
+### 办公文档类
 
 1、嚓哩文库
 https://www.wocali.com/
@@ -271,7 +282,7 @@ http://www.gutenberg.org/
 6、免费ppt模板
 http://www.1ppt.com/
 
-##无损音乐查找##
+### 无损音乐查找
 
 1、超级无损音乐
 https://www.sq688.com/
