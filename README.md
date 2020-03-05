@@ -136,11 +136,64 @@ https://www.jitatang.com/
 
 http://lomtom.top/
 
-牛批的网友：
+## 牛批的网友：
 https://github.com/programthink/zhao
 
 这个牛逼网友：编程随想的博客
 https://program-think.blogspot.com/
+
+
+## StartUML v2.8.3 官方安装特别版StartUML破解版下载
+
+https://www.jb51.net/softs/558248.html
+
+安装后进入以下目录添加破解代码：E:\StarUML\www\license\node\LicenseManagerDomain.js
+
+编辑文件,找到第24行，加入以下代码即可:
+
+var pk, decrypted;
+
+//===============破解开始=============
+
+return {
+
+name: "StarUML",//随意
+
+product: "StarUML",
+
+licenseType: "vip",
+
+quantity: "blog.csdn.net/StarUML",//随意
+
+licenseKey: "later equals never!"
+
+};
+
+//===============破解结束=============
+
+try {
+
+pk = new NodeRSA(PK);
+
+decrypted = pk.decrypt(licenseKey, 'utf8');
+
+} catch (err) {
+
+return false;
+
+}
+
+好了，以上是你百度到的大多数的答案，但是却少了一步。当你执行完以上操作时发现貌似从新打开StarUML还是告诉你未注册。
+
+这个时候你需要：Help -> EnterLicense... 然后输入以下的内容：
+
+Name: StarUML
+
+Licence Key: 8888-000-8888
+
+然后点击激活，就提示你激活成功了。
+
+
 
 1024网友分享
 ####网盘搜索引擎
