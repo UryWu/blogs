@@ -16,6 +16,25 @@ http://www.3322.cc/soft/48699.html#xzdz
 
 https://pan.baidu.com/s/1-JyJVn491AC-Ro6HEvBwew
 
+## [这款工具只需简单设置，就可以让你高速下载近乎全网的视频](https://www.zhihu.com/question/23805794)
+
+```
+pip install you-get
+pip install --upgrade you-get
+```
+
+首先我们输入 you-get -i 视频链接
+
+![image-20200402212439663](https://pic4.zhimg.com/80/v2-8d2b4f6cc95778cb8494bd2bd0ee00f1_720w.jpg)
+
+比如我们要下载高清的，可以看到它最后有个内容是：
+
+you-get --format=mp4hd URL
+
+下载的文件在左侧的文件目录里，即你输入命令的那一栏前面的C:\Users\xxx\里。
+
+
+
 ## 科学上网：
 
 吾爱公益分享
